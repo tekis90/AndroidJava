@@ -30,7 +30,7 @@ public class GameMainActivity extends AppCompatActivity {
     Runnable runnable;
 
     int score=0;
-    int sure=380;
+    int sure=379;
     int time=0;
     ImageView[] imageViewsArrays;
 
