@@ -14,7 +14,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/duduandbubuicon"
         android:supportsRtl="true"
-        android:theme="@style/Theme.KenneyGame"
+        android:theme="@style/Theme.duduAndBubuGame"
         tools:targetApi="31">
         <activity
             android:name=".GameMainActivity"
