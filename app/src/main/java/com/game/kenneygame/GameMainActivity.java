@@ -126,7 +126,7 @@ public class GameMainActivity extends AppCompatActivity {
                 }
 
                 AlertDialog.Builder alertDialog = new AlertDialog.Builder(GameMainActivity.this);
-                alertDialog.setTitle("Restart!");
+                alertDialog.setTitle("Restart!!");
                 alertDialog.setPositiveButton("Yes", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
